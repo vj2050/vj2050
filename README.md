@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Vaishnavi Jamdade!
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Vaishnavi Jamdade!
 
 
 <img align="right" width="340" height="270" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
@@ -27,7 +27,14 @@
 <img width="36px" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">&nbsp;
 <img width="36px" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">&nbsp;
 <img width="36px" alt="gitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">&nbsp;
-<img src="https://www.loudounchamber.org/wp-content/uploads/2018/02/aws_logo_smile-NEW.png" alt="AWS" title="AWS" width="6%" />
+<img width="36px" alt="gitHub" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">&nbsp;
+<img width="6%" alt="AWS" title="AWS" src="https://www.loudounchamber.org/wp-content/uploads/2018/02/aws_logo_smile-NEW.png">&nbsp;
+<br>
+<br>
+
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vj2050&show_icons=true&&theme=dracula&include_all_commits=true&hide_border=true)&nbsp;&nbsp;
+![Vaishnavi's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vj2050&layout=compact&langs_count=8&hide_border=true)
+<br />
 
 ### **Let's Connect!**
 
