@@ -5,7 +5,7 @@
 
 👩🏽‍💻 I am a Software Engineer and an open-source contributor with a focus on backend engineering and experience in developing full-stack web applications and chatbot applications utilizing Machine Learning.
   
-🌱 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
+🌱 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are of high value to me.
   
 🎯 I am keen on taking challenges and making the most of the opportunities where I can put my abilities to work for a mission I am passionate about.
   
