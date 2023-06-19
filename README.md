@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Vaishnavi Jamdade!
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vaishnavi Jamdade!
 
 
 <img align="right" width="340" height="270" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
